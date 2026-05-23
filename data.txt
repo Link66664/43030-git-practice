@@ -1,2 +1,3 @@
 This is a simple data file for testing vowel frequency.
 GitHub Actions will analyse this file automatically.
+This is another test line.
